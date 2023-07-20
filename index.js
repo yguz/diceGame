@@ -1,6 +1,4 @@
 
-window.onload = "myFunction()";
-
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
 var randomDiceImage = "dice" + randomNumber1 + ".png"; //dice1.png - dice6.pngsz
